@@ -65,3 +65,26 @@ C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\G
 C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.CopyComplete
 C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.exe
 C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.pdb
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe.config
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\GamesQuiz.pdb
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\MaterialDesignColors.dll
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\MaterialSkin.dll
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\MaterialDesignColors.pdb
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.csprojAssemblyReference.cache
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cinema.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Medicina.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cadastrar.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Categorias.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Musicas.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_PainelAdministrador.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Tecnologia.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.FormularioPrincipal.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.Properties.Resources.resources
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.GenerateResource.cache
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.CopyComplete
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.exe
+C:\Users\cccai\OneDrive\Documentos\Estudos\GitHub\GameQuiz\GameQuiz\GamesQuiz\obj\Debug\GamesQuiz.pdb
