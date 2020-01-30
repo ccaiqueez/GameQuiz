@@ -4,7 +4,7 @@ GameQuiz
 <p align="center">
   <img 
        alt="Frontend" 
-       src="https://github.com/ccaiquee/GameQuiz/tree/master/GameQuiz/assets/screen.jpg" 	   
+       src="https://github.com/ccaiquee/GameQuiz/blob/master/GameQuiz/assets/screen.jpg" 	   
        width="100%"
   />
 </p>
