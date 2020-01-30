@@ -11,7 +11,7 @@ GameQuiz
 
 ## 💻 Projeto
 
-O GameQuiz é um jogo de pergunta e respostas que tem o objetivo de pontuar o jogar com cada pergunta correta, ao final de cada categoria o sistema cadastra a pontuação total do jogador em um rank.
+O GameQuiz é um jogo de pergunta e respostas que tem o objetivo de pontuar o jogar com cada pergunta correta, ao final de cada categoria o sistema cadastra a pontuação total do jogador em um ranking.
 
 ## :rocket: Tecnologia
 
