@@ -1,0 +1,67 @@
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe.config
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.pdb
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csprojAssemblyReference.cache
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Properties.Resources.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.GenerateResource.cache
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.CoreCompileInputs.cache
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.exe
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.pdb
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.FormularioPrincipal.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Categorias.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cadastrar.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Medicina.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_PainelAdministrador.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Musicas.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Tecnologia.resources
+C:\Users\cccai\Documents\GamesQuiz\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cinema.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe.config
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csprojAssemblyReference.cache
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cinema.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Medicina.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cadastrar.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Categorias.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Musicas.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_PainelAdministrador.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Tecnologia.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.FormularioPrincipal.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Properties.Resources.resources
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.GenerateResource.cache
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.CoreCompileInputs.cache
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.exe
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.pdb
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.pdb
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.CopyComplete
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialSkin.dll
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignColors.dll
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignColors.pdb
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\cccai\Documents\GamesQuiz - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe.config
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.exe
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\GamesQuiz.pdb
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignColors.dll
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialSkin.dll
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignColors.pdb
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csprojAssemblyReference.cache
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cinema.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Medicina.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Cadastrar.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Categorias.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Musicas.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_PainelAdministrador.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Forms.F_Tecnologia.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.FormularioPrincipal.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.Properties.Resources.resources
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.GenerateResource.cache
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.CoreCompileInputs.cache
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.csproj.CopyComplete
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.exe
+C:\Users\cccai\Desktop\GamesQuiz - Copia - Copia\GamesQuiz\GamesQuiz\obj\Debug\GamesQuiz.pdb

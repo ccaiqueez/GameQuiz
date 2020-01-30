@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52787C36-92D3-45A8-B918-1375A0AABDE4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GamesQuiz</RootNamespace>
+    <AssemblyName>GamesQuiz</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=1.1.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.1.3\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.5.0.1205, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.2.5.0.1205\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection\ConectionDB.cs" />
+    <Compile Include="DataPlayer\C_ControleDadosF.cs" />
+    <Compile Include="DataPlayer\C_ControlePlayerDados.cs" />
+    <Compile Include="DataPlayer\C_DalPlayerDados.cs" />
+    <Compile Include="DataPlayer\Rankings.cs" />
+    <Compile Include="DataQuestion\C_ControleQuestoesDados.cs" />
+    <Compile Include="DataQuestion\C_DalQuestoesDados.cs" />
+    <Compile Include="DataQuestion\C_DalQuestoesDadosCinema.cs" />
+    <Compile Include="DataQuestion\C_DalQuestoesDadosMusica.cs" />
+    <Compile Include="DataQuestion\C_DalQuestoesDadosTecnologia.cs" />
+    <Compile Include="DataQuestion\C_PerguntaDadosQuestoes.cs" />
+    <Compile Include="DataQuestion\C_PerguntaDadosQuestoesCinema.cs" />
+    <Compile Include="DataQuestion\C_PerguntaDadosQuestoesMusicas.cs" />
+    <Compile Include="DataQuestion\C_PerguntaDadosQuestoesTecnologia.cs" />
+    <Compile Include="Forms\F_Cinema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\F_Cinema.Designer.cs">
+      <DependentUpon>F_Cinema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\F_Medicina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\F_Medicina.Designer.cs">
+      <DependentUpon>F_Medicina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\F_Cadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\F_Cadastrar.Designer.cs">
+      <DependentUpon>F_Cadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\F_Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\F_Categorias.Designer.cs">
+      <DependentUpon>F_Categorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\F_Musicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\F_Musicas.Designer.cs">
+      <DependentUpon>F_Musicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\F_PainelAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\F_PainelAdministrador.Designer.cs">
+      <DependentUpon>F_PainelAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\F_Tecnologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\F_Tecnologia.Designer.cs">
+      <DependentUpon>F_Tecnologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormularioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioPrincipal.Designer.cs">
+      <DependentUpon>FormularioPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QUIZ_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUIZ_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\F_Cinema.resx">
+      <DependentUpon>F_Cinema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\F_Medicina.resx">
+      <DependentUpon>F_Medicina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\F_Cadastrar.resx">
+      <DependentUpon>F_Cadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\F_Categorias.resx">
+      <DependentUpon>F_Categorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\F_Musicas.resx">
+      <DependentUpon>F_Musicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\F_PainelAdministrador.resx">
+      <DependentUpon>F_PainelAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\F_Tecnologia.resx">
+      <DependentUpon>F_Tecnologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormularioPrincipal.resx">
+      <DependentUpon>FormularioPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QUIZ_DBDataSet.xsc">
+      <DependentUpon>QUIZ_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUIZ_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUIZ_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUIZ_DBDataSet.xss">
+      <DependentUpon>QUIZ_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Futebol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medicina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medicina01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Esportes_Ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Musica_Ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Livro_Ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\biologia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TI1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ti_ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinema_ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserRegister.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserRegister01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avancar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_return.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avancar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
